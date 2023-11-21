@@ -1,8 +1,3 @@
-🇨🇳免费别问，关注公众号｜直播,#genre#
-熊猫不叫猫～更新,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjbGM5gUon8K7eQ.mp4
-免费别问，分享者,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4临时娱乐,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg74qw4gUo0ZG70AM.mp4
-谢谢关注：辛苦,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmvmc4gUo8NSjoQI.mp4
-
 🇨🇳央蓝｜卫蓝,#genre#
 CCTV-1    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV-1    2K,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
@@ -277,7 +272,7 @@ WWE格斗,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 所有体育电视高清,http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 
 
-🌴自然｜探索,#genre#
+自然｜探索,#genre#
 大太平洋,http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8
 生命脉动,http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
 飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
@@ -1296,7 +1291,7 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,htt
 七首DJ情歌《拈花一笑》《对面的小姐姐》《想你了小哥哥》等FHD[1920*1080],https://vdse.bdstatic.com//ed10354ac1acc37c9922074fd88d3697.mp4
 七首DJ情歌《拈花一笑》《对面的小姐姐》《想你了小哥哥》等FHD[1920*1080],https://vdse.bdstatic.com//ed10354ac1acc37c9922074fd88d3697.mp4
 
-🎧抒情｜情歌,#genre#
+抒情｜情歌,#genre#
 纸短情长,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost
 讲真的,https://vdse.bdstatic.com//9145a29aecbbf594c5b21ab1e6b14d20.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A46%3A15Z%2F-1%2Fhost
 陈柯宇生僻字,http://vd2.bdstatic.com/mda-jb28qp6tauzkzpy9/hd/mda-jb28qp6tauzkzpy9.mp4
@@ -1549,8 +1544,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 车模视频,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
 唱着情歌流着泪.孟小笛祁隆,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtYHG4gUo6KjuzwE.mp4
 
-🔐💋
-🌐 綜合,#genre#
+綜合,#genre#
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国气象,https://live.v1.mk/api/ghyx.php?id=ChinaQiXiangPinDaoHD_2000
 中国交通,http://tv.lanjingfm.com/cctbn/hainan.m3u8
@@ -1565,7 +1559,7 @@ CEC-2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC-3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
-🌺🌺浙江🌺🌺,http://
+浙江,http://
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
@@ -1607,7 +1601,7 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 中国蓝18,http://hw-m-l.cztv.com/channels/lantian/channel18/720p.m3u8
 
 
-🌺🌺湖南🌺🌺,http://
+湖南,http://
 湖南经视,http://223.151.51.27:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南公共,http://223.151.51.27:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://223.151.51.27:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1628,7 +1622,7 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 
-🌺🌺山东🌺🌺,http://
+山东,http://
 山东新闻,http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
 山东少儿,http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
 青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8
